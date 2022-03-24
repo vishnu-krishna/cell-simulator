@@ -10,7 +10,6 @@ export const StyledBoardCells = styled.div<{ rows: number; cols: number }>`
 `;
 
 export const StyledBoardContainer = styled.div`
-  background: #b0bec5;
   display: flex;
   justify-content: center;
   align-items: center;
